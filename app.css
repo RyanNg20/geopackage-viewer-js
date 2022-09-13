@@ -81,20 +81,11 @@ body {
 }
 
 
-.map {
-  position: absolute;
-  top: 0px;
-  bottom: 0px;
-  left: 0px;
-  right: 33vw;
-}
-
 .side-bar {
   position: absolute;
   top: 0px;
   right: 0px;
   bottom: 0px;
-  width: 33vw;
   overflow-y: auto;
 }
 
