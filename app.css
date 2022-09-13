@@ -2,7 +2,9 @@ body {
   background-color: light-gray;
   font-family: Helvetica;
 }
-
+.menu:hover{
+  cursor: pointer;
+}
 .progress-grid-positioner {
   position: absolute;
   top: 0;
